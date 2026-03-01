@@ -46,7 +46,6 @@ What are the advantages of using flashattention kernels compared to the naive py
 
 - How difficult was it to implement softmax, GEMM, and attention in CUDA?
 
-- Did you use any AI tools (ChatGPT, Cursor, etc.) while doing the project? If so, how helpful were they? Do you think students could get full marks on this project with “vibe coding”?
 
 - If we were to add additional tasks, what concepts or assignments should we include?
 
